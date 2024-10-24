@@ -139,7 +139,7 @@ under the License.
 		<dependency>
 			<groupId>com.github.luben</groupId>
 			<artifactId>zstd-jni</artifactId>
-			<version>1.4.9-1</version>
+			<version>1.5.6-6</version>
 			<scope>test</scope>
 		</dependency>
 
@@ -175,7 +175,7 @@ under the License.
 		<dependency>
 			<groupId>org.projectlombok</groupId>
 			<artifactId>lombok</artifactId>
-			<version>1.18.30</version>
+			<version>1.18.34</version>
 			<scope>test</scope>
 		</dependency>
 
